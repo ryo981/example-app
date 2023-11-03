@@ -1,8 +1,8 @@
 #プロジェクトファイルをクローン
-git clone https://github.com/ryo981/Laravel.git
+    git clone https://github.com/ryo981/Laravel.git
 
 #作業ディレクトリで下記を実行
-docker run --rm \
+    docker run --rm \
     -u "$(id -u):$(id -g)" \
     -v $(pwd):/var/www/html \
     -w /var/www/html \
