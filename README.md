@@ -11,4 +11,4 @@
     laravelsail/php82-composer:latest \
     composer install --ignore-platform-reqs  
 
-.env.exampleを.envにリネーム
+.env.exampleを.envにリネームして"vendor/bin/sail up -d"を実行  
