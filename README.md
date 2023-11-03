@@ -1,6 +1,6 @@
 プロジェクトファイルをクローン  
 
-git clone https://github.com/ryo981/Laravel.git
+    git clone https://github.com/ryo981/Laravel.git
 
 作業ディレクトリで下記を実行  
 
